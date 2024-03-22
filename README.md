@@ -1,7 +1,3 @@
-To complete the README.md file for the Cardioid project, we will provide information about the Python code, its functionality, and instructions on how to run it along with the necessary libraries imported from requirements.txt.
-
----
-
 # Cardioid
 
 In geometry, a cardioid is a plane curve traced by a point on the perimeter of a circle that is rolling around a fixed circle of the same radius. It can also be defined as an epicycloid having a single cusp. It is also a type of sinusoidal spiral, and an inverse curve of the parabola with the focus as the center of inversion. A cardioid can also be defined as the set of points of reflections of a fixed point on a circle through all tangents to the circle.
