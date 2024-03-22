@@ -5,6 +5,7 @@ In geometry, a cardioid is a plane curve traced by a point on the perimeter of a
 ## Cardioid as Envelope of a Pencil of Lines
 
 ![Cardioid as envelope of a pencil of lines](https://upload.wikimedia.org/wikipedia/commons/9/97/Kardioide-sehnen.svg)
+
 **Cardioid as envelope of a pencil of lines**
 
 A similar and simple method to draw a cardioid uses a pencil of lines. It is due to L. Cremona:
@@ -16,6 +17,7 @@ A similar and simple method to draw a cardioid uses a pencil of lines. It is due
 ### Proof
 
 ![Cremona's generation of a cardioid](https://upload.wikimedia.org/wikipedia/commons/6/6b/Cycloid-cremona-pr.svg)
+
 **Cremona's generation of a cardioid**
 
 The following consideration uses trigonometric formulae for $\cos \alpha + \cos \beta$, $\sin \alpha + \sin \beta$, $1 + \cos 2\alpha$, $\cos 2\alpha$, and $\sin 2\alpha$. In order to keep the calculations simple, the proof is given for the cardioid with polar representation $r = 2(1 + \cos \phi)$.
