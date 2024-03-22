@@ -1,0 +1,27 @@
+# Linting and code formatting
+autopep8
+black
+isort
+pep8-naming
+mypy
+pycodestyle
+
+# Flake8
+autoflake
+flake8
+flake8-bandit
+flake8-bugbear
+flake8-builtins
+flake8-class-attributes-order
+flake8-comprehensions
+flake8-eradicate
+flake8-expression-complexity
+flake8-functions
+flake8-print
+flake8-variables-names
+flake8_cognitive_complexity
+flake8_implicit_str_concat
+pyflakes
+
+# Required modules
+pygame
